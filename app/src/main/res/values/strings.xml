@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="home_title">Music Choice is FREE through your TV provider</string>
+    <string name="home_subtitle">Sign in with your TV provider below</string>
+    <string name="tv_providers_button">See all TV Providers</string>
+</resources>
